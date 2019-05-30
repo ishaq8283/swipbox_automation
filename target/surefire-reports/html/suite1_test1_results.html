@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>Test Results Report - Test</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+<h1>Test</h1>
+<p>
+  Test duration: 38.063s
+</p>
+
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header failed">Failed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">web.swipBox.test_cases.EmailLogin</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  emailLogin
+      </td>
+  <td class="duration">
+    12.520s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"yasir.nazir@swipbox.com", "12345678s"</span><br />
+    
+            <div class="testOutput">
+                        Click to see the screenshot
+                                <a target="_blank" href=Thu_May_30_23_45_58_PKT_2019.jpg>Screenshot</a>
+                                <br>
+                                <a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_45_58_PKT_2019.jpg height=500 width=500></img></a>
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//app-home/div/div/div&quot;}<br/>
+&nbsp; (Session info: chrome=74.0.3729.169)<br/>
+&nbsp; (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 10.11 seconds<br/>
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html<br/>
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;<br/>
+System info: host: &apos;USER&apos;, ip: &apos;192.168.43.96&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_181&apos;<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:60867}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir7584_19026}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]<br/>
+Session ID: 2f07f32d4cc00040b219ea7da543bb93<br/>
+*** Element info: {Using=xpath, value=//app-home/div/div/div}</b></a><br />
+    <div class="stackTrace" id="exception-0">
+              sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br />
+              sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:423)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)<br />
+              org.openqa.selenium.By$ByXPath.findElement(By.java:361)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)<br />
+              web.swipBox.PageController.Page.verifyEquals(Page.java:268)<br />
+              web.swipBox.PageObject.LoginSwipBoxHome.doLogin(LoginSwipBoxHome.java:16)<br />
+              web.swipBox.test_cases.EmailLogin.emailLogin(EmailLogin.java:15)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:714)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:767)<br />
+              org.testng.TestRunner.run(TestRunner.java:617)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:348)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:254)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1149)<br />
+              org.testng.TestNG.run(TestNG.java:1057)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)<br />
+                </div>
+      </td>
+</tr>
+          <tr>
+        <td colspan="3" class="group">web.swipBox.test_cases.ServicePointFilters</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  servicePointsFiltersByType
+      </td>
+  <td class="duration">
+    11.562s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"SP11165", "IslamAbadTesting", "PL", "Al Rehman Plaza , G-11"</span><br />
+    
+            <div class="testOutput">
+                        Click to see the screenshot
+                                <a target="_blank" href=Thu_May_30_23_46_27_PKT_2019.jpg>Screenshot</a>
+                                <br>
+                                <a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_46_27_PKT_2019.jpg height=500 width=500></img></a>
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[1]/form/div/div/input[contains(text(),&apos;Al Rehman Plaza , G-11&apos;)]&quot;}<br/>
+&nbsp; (Session info: chrome=74.0.3729.169)<br/>
+&nbsp; (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)<br/>
+Command duration or timeout: 10.02 seconds<br/>
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html<br/>
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;<br/>
+System info: host: &apos;USER&apos;, ip: &apos;192.168.43.96&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_181&apos;<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:60867}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir7584_19026}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]<br/>
+Session ID: 2f07f32d4cc00040b219ea7da543bb93<br/>
+*** Element info: {Using=xpath, value=//div[1]/form/div/div/input[contains(text(),&apos;Al Rehman Plaza , G-11&apos;)]}</b></a><br />
+    <div class="stackTrace" id="exception-1">
+              sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br />
+              sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:423)<br />
+              org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)<br />
+              org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)<br />
+              org.openqa.selenium.By$ByXPath.findElement(By.java:361)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)<br />
+              web.swipBox.PageController.Page.verifyEquals(Page.java:270)<br />
+              web.swipBox.PageObject.ServicePointsPage.filterServicePoint(ServicePointsPage.java:167)<br />
+              web.swipBox.test_cases.ServicePointFilters.servicePointsFiltersByType(ServicePointFilters.java:32)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:714)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:767)<br />
+              org.testng.TestRunner.run(TestRunner.java:617)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:348)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:254)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1149)<br />
+              org.testng.TestNG.run(TestNG.java:1057)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)<br />
+                </div>
+      </td>
+</tr>
+      </table>
+
+  <table class="resultsTable" width="100%">
+    <tr><th colspan="3" class="header skipped">Skipped Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">web.swipBox.test_cases.ServicePointFilters</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  servicePointsFiltersByAddress
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                             <i>Depends on method(s): </i>
+        <span class="dependency">web.swipBox.test_cases.ServicePointFilters.servicePointsFiltersBylocation</span>
+                
+    
+        
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  servicePointsFiltersBylocation
+      </td>
+  <td class="duration">
+    0.000s
+  </td>
+  <td class="result">
+                             <i>Depends on method(s): </i>
+        <span class="dependency">web.swipBox.test_cases.ServicePointFilters.servicePointsFiltersByType</span>
+                
+    
+        
+
+      </td>
+</tr>
+      </table>
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">web.swipBox.test_cases.ServicePointFilters</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  servicePoints
+      </td>
+  <td class="duration">
+    4.427s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        <br>Verification Success and you got text on page : Service points<br>
+                                <br>
+                                <a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_46_04_PKT_2019.jpg height=500 width=500></img></a>
+                                <br>
+                                <a target="_blank" href=Thu_May_30_23_46_06_PKT_2019.jpg>Screenshot</a>
+                                <br>
+                                <a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_46_06_PKT_2019.jpg height=500 width=500></img></a>
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  servicePointsFiltersById
+      </td>
+  <td class="duration">
+    7.380s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"SP11165", "IslamAbadTesting", "PL", "Al Rehman Plaza , G-11"</span><br />
+    
+            <div class="testOutput">
+                        <br>Verification failure : expected [SP11165] but found [SP11177]<br>
+                                <br>
+                                <a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_46_10_PKT_2019.jpg height=500 width=500></img></a>
+                                <br>
+                                <br>
+                                <a target="_blank" href=Thu_May_30_23_46_15_PKT_2019.jpg>Screenshot</a>
+                                <br>
+                                <a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_46_15_PKT_2019.jpg height=500 width=500></img></a>
+                  </div>
+    
+
+      </td>
+</tr>
+      </table>
+  
+</body>
+</html>

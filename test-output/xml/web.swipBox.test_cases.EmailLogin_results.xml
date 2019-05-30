@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.288">
+  <properties />
+  
+  
+            <testcase name="emailLogin" time="1.912" classname="web.swipBox.test_cases.EmailLogin" />
+                <testcase name="emailLogin" time="2.376" classname="web.swipBox.test_cases.EmailLogin" />
+      
+</testsuite>

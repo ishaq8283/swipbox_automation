@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<a target="_blank" href=Thu_May_30_23_25_02_PKT_2019.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_25_02_PKT_2019.jpg height=500 width=500></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Thu_May_30_23_25_07_PKT_2019.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_25_07_PKT_2019.jpg height=500 width=500></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9732" started-at="2019-05-30T18:24:58Z" finished-at="2019-05-30T18:25:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9732" started-at="2019-05-30T18:24:58Z" finished-at="2019-05-30T18:25:08Z">
+      <class name="web.swipBox.test_cases.EmailLogin">
+        <test-method status="PASS" signature="emailLogin(java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.EmailLogin@25bc0606]" name="emailLogin" duration-ms="2376" started-at="2019-05-30T18:24:58Z" data-provider="getData" finished-at="2019-05-30T18:25:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kalim_riaz@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dsfdjlkjl]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a target="_blank" href=Thu_May_30_23_25_02_PKT_2019.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_25_02_PKT_2019.jpg height=500 width=500></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailLogin -->
+        <test-method status="PASS" signature="emailLogin(java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.EmailLogin@25bc0606]" name="emailLogin" duration-ms="1912" started-at="2019-05-30T18:25:04Z" data-provider="getData" finished-at="2019-05-30T18:25:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kalim_riaz@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdfsdoko]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a target="_blank" href=Thu_May_30_23_25_07_PKT_2019.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Thu_May_30_23_25_07_PKT_2019.jpg height=500 width=500></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.swipBox.test_cases.EmailLogin@25bc0606]" name="tearDown" is-config="true" duration-ms="2519" started-at="2019-05-30T18:25:08Z" finished-at="2019-05-30T18:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- web.swipBox.test_cases.EmailLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

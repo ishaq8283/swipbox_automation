@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suite">
+<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+		<listener class-name="web.swipBox.listeners.CustomListeners"></listener>
+	</listeners>
+  
+  <test thread-count="5" name="Test">
+  
+    <classes>
+      <class name="web.swipBox.test_cases.EmailLogin"/>
+      <class name="web.swipBox.test_cases.ServicePointFilters" />
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
