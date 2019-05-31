@@ -1,20 +1,21 @@
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\PageObject\Test_login.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\test_cases\EmailLogin.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\utilities\ExtentManager.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\PageObject\LoginSwipBoxHome.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\test_cases\ServicePointFilters.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\rough\test_class_reading_properties.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\test_cases\ShipmentData.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\listeners\CustomListeners.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\PageController\Page.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\utilities\ExcelReader.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\test_cases\EndUser.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\PageObject\PageShipmentEndUser.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\PageObject\SwipBoxHOme.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\test_cases\ServicePoints.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\test_cases\Login_page.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\utilities\TestConfig.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\utilities\Utilities.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\PageObject\ServicePointsPage.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\PageObject\ShipmentDataPage.java
-C:\Users\admin\Downloads\New folder (2)\swipbox_automation\src\test\java\web\swipBox\PageController\BaseQuit.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\rough\test_class_reading_properties.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\PageObject\Test_login.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\utilities\ExtentManager.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\test_cases\EmailLogin.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\utilities\MonitoringMail.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\utilities\TestConfig.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\listeners\CustomListeners.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\utilities\ExcelReader.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\PageObject\PageShipmentEndUser.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\test_cases\ServicePointFilters.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\PageController\Page.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\test_cases\EndUser.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\test_cases\ServicePoints.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\utilities\Utilities.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\PageObject\ShipmentDataPage.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\test_cases\ShipmentData.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\PageObject\SwipBoxHOme.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\PageObject\LoginSwipBoxHome.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\test_cases\Login_page.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\PageController\BaseQuit.java
+F:\WebAutomation\swipbox_automation\src\test\java\web\swipBox\PageObject\ServicePointsPage.java

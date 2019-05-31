@@ -18,11 +18,6 @@
           <include name="servicePointsFiltersById"/>
         </methods>
       </class> <!-- web.swipBox.test_cases.ServicePointFilters -->
-      <class name="web.swipBox.test_cases.EmailLogin">
-        <methods>
-          <include name="emailLogin" invocation-numbers="0"/>
-        </methods>
-      </class> <!-- web.swipBox.test_cases.EmailLogin -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

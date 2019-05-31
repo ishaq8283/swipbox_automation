@@ -55,10 +55,9 @@ public class ServicePointFilters extends BaseQuit {
 
 	@DataProvider
 	public Object[][] getData() {
-		Page page = new Page();
 		String sheetName = "ServicePointFilters";
-		int rows = page.excel.getRowCount(sheetName);
-		int cols = page.excel.getColumnCount(sheetName);
+		int rows = Page.excel.getRowCount(sheetName);
+		int cols = Page.excel.getColumnCount(sheetName);
 
 		Object[][] data = new Object[rows - 1][cols];
 
