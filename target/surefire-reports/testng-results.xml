@@ -8,19 +8,19 @@
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_32_PKT_2019.jpg height=500 width=500></img></a>]]>
+      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_27_PKT_2019.jpg height=500 width=500></img></a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href=Fri_May_31_10_35_32_PKT_2019.jpg>Screenshot</a>]]>
+      <![CDATA[<a target="_blank" href=Mon_Jun_10_10_32_27_PKT_2019.jpg>Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_32_PKT_2019.jpg height=500 width=500></img></a>]]>
+      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_27_PKT_2019.jpg height=500 width=500></img></a>]]>
     </line>
     <line>
       <![CDATA[<br>Verification Success and you got text on page : Service points<br>]]>
@@ -29,63 +29,63 @@
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_35_PKT_2019.jpg height=500 width=500></img></a>]]>
+      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_33_PKT_2019.jpg height=500 width=500></img></a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href=Fri_May_31_10_35_35_PKT_2019.jpg>Screenshot</a>]]>
+      <![CDATA[<a target="_blank" href=Mon_Jun_10_10_32_33_PKT_2019.jpg>Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_35_PKT_2019.jpg height=500 width=500></img></a>]]>
+      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_33_PKT_2019.jpg height=500 width=500></img></a>]]>
     </line>
     <line>
-      <![CDATA[<br>Verification failure : expected [SP11165] but found [SP11177]<br>]]>
-    </line>
-    <line>
-      <![CDATA[<br>]]>
-    </line>
-    <line>
-      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_37_PKT_2019.jpg height=500 width=500></img></a>]]>
+      <![CDATA[<br>Verification failure : expected [SP11165] but found [SP11223]<br>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<br>]]>
-    </line>
-    <line>
-      <![CDATA[<a target="_blank" href=Fri_May_31_10_35_41_PKT_2019.jpg>Screenshot</a>]]>
+      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_35_PKT_2019.jpg height=500 width=500></img></a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_41_PKT_2019.jpg height=500 width=500></img></a>]]>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Mon_Jun_10_10_32_40_PKT_2019.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_40_PKT_2019.jpg height=500 width=500></img></a>]]>
     </line>
     <line>
       <![CDATA[Click to see the screenshot]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href=Fri_May_31_10_35_52_PKT_2019.jpg>Screenshot</a>]]>
+      <![CDATA[<a target="_blank" href=Mon_Jun_10_10_32_50_PKT_2019.jpg>Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_52_PKT_2019.jpg height=500 width=500></img></a>]]>
+      <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_50_PKT_2019.jpg height=500 width=500></img></a>]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="26056" started-at="2019-05-31T05:35:26Z" finished-at="2019-05-31T05:35:52Z">
+  <suite name="Suite" duration-ms="33246" started-at="2019-06-10T05:32:17Z" finished-at="2019-06-10T05:32:51Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="26056" started-at="2019-05-31T05:35:26Z" finished-at="2019-05-31T05:35:52Z">
+    <test name="Test" duration-ms="33246" started-at="2019-06-10T05:32:17Z" finished-at="2019-06-10T05:32:51Z">
       <class name="web.swipBox.test_cases.EmailLogin">
-        <test-method status="PASS" signature="emailLogin(java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.EmailLogin@23fb172e]" name="emailLogin" duration-ms="5440" started-at="2019-05-31T10:35:26Z" data-provider="getData" finished-at="2019-05-31T10:35:32Z">
+        <test-method status="PASS" signature="emailLogin(java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.EmailLogin@64ba3208]" name="emailLogin" duration-ms="9200" started-at="2019-06-10T10:32:17Z" data-provider="getData" finished-at="2019-06-10T10:32:27Z">
           <params>
             <param index="0">
               <value>
@@ -106,25 +106,25 @@
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_32_PKT_2019.jpg height=500 width=500></img></a>]]>
+              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_27_PKT_2019.jpg height=500 width=500></img></a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href=Fri_May_31_10_35_32_PKT_2019.jpg>Screenshot</a>]]>
+              <![CDATA[<a target="_blank" href=Mon_Jun_10_10_32_27_PKT_2019.jpg>Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_32_PKT_2019.jpg height=500 width=500></img></a>]]>
+              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_27_PKT_2019.jpg height=500 width=500></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- emailLogin -->
       </class> <!-- web.swipBox.test_cases.EmailLogin -->
       <class name="web.swipBox.test_cases.ServicePointFilters">
-        <test-method status="PASS" signature="servicePoints()[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2b0f373b]" name="servicePoints" duration-ms="2741" started-at="2019-05-31T10:35:32Z" finished-at="2019-05-31T10:35:35Z">
+        <test-method status="PASS" signature="servicePoints()[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2ceb80a1]" name="servicePoints" duration-ms="5393" started-at="2019-06-10T10:32:27Z" finished-at="2019-06-10T10:32:33Z">
           <reporter-output>
             <line>
               <![CDATA[<br>Verification Success and you got text on page : Service points<br>]]>
@@ -133,23 +133,23 @@
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_35_PKT_2019.jpg height=500 width=500></img></a>]]>
+              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_33_PKT_2019.jpg height=500 width=500></img></a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href=Fri_May_31_10_35_35_PKT_2019.jpg>Screenshot</a>]]>
+              <![CDATA[<a target="_blank" href=Mon_Jun_10_10_32_33_PKT_2019.jpg>Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_35_PKT_2019.jpg height=500 width=500></img></a>]]>
+              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_33_PKT_2019.jpg height=500 width=500></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- servicePoints -->
-        <test-method status="PASS" signature="servicePointsFiltersById(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2b0f373b]" name="servicePointsFiltersById" duration-ms="5214" started-at="2019-05-31T10:35:36Z" data-provider="getData" depends-on-methods="web.swipBox.test_cases.ServicePointFilters.servicePoints" finished-at="2019-05-31T10:35:41Z">
+        <test-method status="PASS" signature="servicePointsFiltersById(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2ceb80a1]" name="servicePointsFiltersById" duration-ms="6002" started-at="2019-06-10T10:32:33Z" data-provider="getData" depends-on-methods="web.swipBox.test_cases.ServicePointFilters.servicePoints" finished-at="2019-06-10T10:32:39Z">
           <params>
             <param index="0">
               <value>
@@ -174,13 +174,13 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[<br>Verification failure : expected [SP11165] but found [SP11177]<br>]]>
+              <![CDATA[<br>Verification failure : expected [SP11165] but found [SP11223]<br>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_37_PKT_2019.jpg height=500 width=500></img></a>]]>
+              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_35_PKT_2019.jpg height=500 width=500></img></a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
@@ -189,17 +189,17 @@
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href=Fri_May_31_10_35_41_PKT_2019.jpg>Screenshot</a>]]>
+              <![CDATA[<a target="_blank" href=Mon_Jun_10_10_32_40_PKT_2019.jpg>Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_41_PKT_2019.jpg height=500 width=500></img></a>]]>
+              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_40_PKT_2019.jpg height=500 width=500></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- servicePointsFiltersById -->
-        <test-method status="FAIL" signature="servicePointsFiltersByType(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2b0f373b]" name="servicePointsFiltersByType" duration-ms="10404" started-at="2019-05-31T10:35:41Z" data-provider="getData" depends-on-methods="web.swipBox.test_cases.ServicePointFilters.servicePointsFiltersById" finished-at="2019-05-31T10:35:52Z">
+        <test-method status="FAIL" signature="servicePointsFiltersByType(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2ceb80a1]" name="servicePointsFiltersByType" duration-ms="10409" started-at="2019-06-10T10:32:40Z" data-provider="getData" depends-on-methods="web.swipBox.test_cases.ServicePointFilters.servicePointsFiltersById" finished-at="2019-06-10T10:32:50Z">
           <params>
             <param index="0">
               <value>
@@ -227,26 +227,26 @@
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[1]/form/div/div/input[contains(text(),'Al Rehman Plaza , G-11')]"}
   (Session info: chrome=74.0.3729.169)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 10.02 seconds
+Command duration or timeout: 10.03 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
-System info: host: 'USER', ip: '192.168.100.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+System info: host: 'USER', ip: '192.168.0.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65424}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir3352_4035}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 038b0c041a9b53d572ec8165d7604519
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49959}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir5180_16191}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0d9bf4cba459d911f63c7b534a4b0a23
 *** Element info: {Using=xpath, value=//div[1]/form/div/div/input[contains(text(),'Al Rehman Plaza , G-11')]}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[1]/form/div/div/input[contains(text(),'Al Rehman Plaza , G-11')]"}
   (Session info: chrome=74.0.3729.169)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 10.02 seconds
+Command duration or timeout: 10.03 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
-System info: host: 'USER', ip: '192.168.100.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+System info: host: 'USER', ip: '192.168.0.110', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65424}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir3352_4035}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 038b0c041a9b53d572ec8165d7604519
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49959}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir5180_16191}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.169, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0d9bf4cba459d911f63c7b534a4b0a23
 *** Element info: {Using=xpath, value=//div[1]/form/div/div/input[contains(text(),'Al Rehman Plaza , G-11')]}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -297,25 +297,25 @@ Session ID: 038b0c041a9b53d572ec8165d7604519
               <![CDATA[Click to see the screenshot]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href=Fri_May_31_10_35_52_PKT_2019.jpg>Screenshot</a>]]>
+              <![CDATA[<a target="_blank" href=Mon_Jun_10_10_32_50_PKT_2019.jpg>Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Fri_May_31_10_35_52_PKT_2019.jpg height=500 width=500></img></a>]]>
+              <![CDATA[<a target="_blank" href="+TestUtil.screenshotName+ "><img src=Mon_Jun_10_10_32_50_PKT_2019.jpg height=500 width=500></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- servicePointsFiltersByType -->
-        <test-method status="SKIP" signature="servicePointsFiltersBylocation(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2b0f373b]" name="servicePointsFiltersBylocation" duration-ms="0" started-at="2019-05-31T10:35:52Z" data-provider="getData" depends-on-methods="web.swipBox.test_cases.ServicePointFilters.servicePointsFiltersByType" finished-at="2019-05-31T10:35:52Z">
+        <test-method status="SKIP" signature="servicePointsFiltersBylocation(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2ceb80a1]" name="servicePointsFiltersBylocation" duration-ms="0" started-at="2019-06-10T10:32:51Z" data-provider="getData" depends-on-methods="web.swipBox.test_cases.ServicePointFilters.servicePointsFiltersByType" finished-at="2019-06-10T10:32:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- servicePointsFiltersBylocation -->
-        <test-method status="SKIP" signature="servicePointsFiltersByAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2b0f373b]" name="servicePointsFiltersByAddress" duration-ms="1" started-at="2019-05-31T10:35:52Z" data-provider="getData" depends-on-methods="web.swipBox.test_cases.ServicePointFilters.servicePointsFiltersBylocation" finished-at="2019-05-31T10:35:52Z">
+        <test-method status="SKIP" signature="servicePointsFiltersByAddress(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2ceb80a1]" name="servicePointsFiltersByAddress" duration-ms="0" started-at="2019-06-10T10:32:51Z" data-provider="getData" depends-on-methods="web.swipBox.test_cases.ServicePointFilters.servicePointsFiltersBylocation" finished-at="2019-06-10T10:32:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- servicePointsFiltersByAddress -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2b0f373b]" name="tearDown" is-config="true" duration-ms="856" started-at="2019-05-31T10:35:52Z" finished-at="2019-05-31T10:35:53Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.swipBox.test_cases.ServicePointFilters@2ceb80a1]" name="tearDown" is-config="true" duration-ms="926" started-at="2019-06-10T10:32:51Z" finished-at="2019-06-10T10:32:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

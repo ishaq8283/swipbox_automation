@@ -104,18 +104,18 @@ public class Page {
 				System.setProperty("webdriver.chrome.driver",
 						System.getProperty("user.dir") + "\\src\\test\\resources\\executables\\chromedriver.exe");
 
-//				Map<String, Object> prefs = new HashMap<String, Object>();
-//				prefs.put("profile.default_content_setting_values.notifications", 2);
-//				prefs.put("credentials_enable_service", false);
-//				prefs.put("profile.password_manager_enabled", false);
-//				ChromeOptions options = new ChromeOptions();
-//				options.setExperimentalOption("prefs", prefs);
-//				options.addArguments("--disable-extensions");
-//				options.addArguments("--disable-infobars");
-				// ChromeOptions options = new ChromeOptions();
+				Map<String, Object> prefs = new HashMap<String, Object>();
+				prefs.put("profile.default_content_setting_values.notifications", 2);
+				prefs.put("credentials_enable_service", false);
+				prefs.put("profile.password_manager_enabled", false);
+				ChromeOptions options = new ChromeOptions();
+				options.setExperimentalOption("prefs", prefs);
+				options.addArguments("--disable-extensions");
+				options.addArguments("--disable-infobars");
+				
 //	                options.addArguments("headless");
 //	                options.addArguments("window-size=1200x600");
-		//		driver = new ChromeDriver(options);
+//				driver = new ChromeDriver(options);
 
 				 driver = new ChromeDriver();
 			} else if (config.getProperty("browser").equals("ie")) {

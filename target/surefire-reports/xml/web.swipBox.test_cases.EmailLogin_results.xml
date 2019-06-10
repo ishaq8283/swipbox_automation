@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="5.440">
+           time="9.200">
   <properties />
   
   
-            <testcase name="emailLogin" time="5.440" classname="web.swipBox.test_cases.EmailLogin" />
+            <testcase name="emailLogin" time="9.200" classname="web.swipBox.test_cases.EmailLogin" />
       
 </testsuite>
